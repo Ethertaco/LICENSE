@@ -3,7 +3,7 @@
 ## License
 Copyright © [Start Year]-[Now] [Your Name] and [Your Team]  
 
-This work is licensed under the [Team Ethertaco Public License (TEPL) Version 1.0](https://github.com/Ethertaco/LICENSE/LICENSES/TEPL-1.0.md).  
+This work is licensed under the [Team Ethertaco Public License (TEPL) Version 1.0](https://github.com/Ethertaco/LICENSE/blob/main/TEPL-1.0.md).  
 
 **Key conditions**:  
 - Permits modification and distribution for **non-commercial purposes**  
@@ -15,7 +15,7 @@ This work is licensed under the [Team Ethertaco Public License (TEPL) Version 1.
 ## License
 Copyright © 2025 Team Ethertaco and QinShenYu  
 
-This work is licensed under the [Team Ethertaco Public License (TEPL) Version 1.0](https://github.com/Ethertaco/LICENSE/LICENSES/TEPL-1.0.md).  
+This work is licensed under the [Team Ethertaco Public License (TEPL) Version 1.0](https://github.com/Ethertaco/LICENSE/blob/main/TEPL-1.0.md).  
 
 **Key conditions**:  
 - Permits modification and distribution for **non-commercial purposes**  
