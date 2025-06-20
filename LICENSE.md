@@ -162,7 +162,7 @@ but modification is prohibited except through the official versioning process at
 https://github.com/Ethertaco/LICENSE
 
 Complete license text always available at:
-https://github.com/Ethertaco/LICENSE/LICENSES/TEPL-1.0.md
+https://github.com/Ethertaco/LICENSE/blob/main/TEPL-1.0.md
 ```
 
 **Contact for license inquiries:** ethertacolicense@opticalcone.cn
