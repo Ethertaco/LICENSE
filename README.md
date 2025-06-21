@@ -19,7 +19,7 @@ Copyright © [Year] [Name]
 
 Please see the [LICENSE](TEPL-1.1.md) file for the full license text.
 
-<br><br><br>
+<br>
 
 ## License
 
